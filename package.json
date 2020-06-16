@@ -1,7 +1,7 @@
 {
-  "name": "nuxt_base",
+  "name": "angle",
   "version": "1.0.0",
-  "description": "nuxt starter template",
+  "description": "A simplest protractor app for mac.",
   "author": "hrqsn",
   "private": true,
   "scripts": {
